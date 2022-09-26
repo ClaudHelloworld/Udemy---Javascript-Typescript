@@ -3,3 +3,6 @@
 //Minha solucao
 console.log ('meu nome é "Claudinei". Estou aprendendo JavaScript ás', 10,':',59, 'da manhã.');
 
+/*
+Este é um bloco de comentário em JS
+*/
